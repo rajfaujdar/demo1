@@ -1,2 +1,6 @@
 first server push :P
+<<<<<<< HEAD
 hello all :)
+=======
+hie arpita this side.
+>>>>>>> e6b121bfab9f2b52ebdb316fb19e9e0981159ac0
