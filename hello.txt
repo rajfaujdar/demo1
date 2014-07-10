@@ -1,5 +1,9 @@
 first server push :P
 <<<<<<< HEAD
+hie arpita this side.
+this is from my side :P
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 hello all :)
 =======
@@ -9,3 +13,4 @@ hie arpita this side.
 hie arpita this side.
 hello vipul
 >>>>>>> 9905fcb8fec14ba08c3052613e0631194ced6ff3
+>>>>>>> 38ae8ac6b74441f5b268d45d9017e6e6975ddaf4
